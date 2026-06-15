@@ -137,7 +137,7 @@ Total params: 121,153
 
 ## 👤 Author
 
-**Shreya Sidey**  
+**Shreyasi Dey**  
 [GitHub](https://github.com/shreyasidey83)
 
 ---
